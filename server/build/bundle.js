@@ -22128,7 +22128,7 @@ var Home = function Home() {
     return _react2.default.createElement(
         'div',
         null,
-        'Hello'
+        'Hello from nodemon'
     );
 };
 
